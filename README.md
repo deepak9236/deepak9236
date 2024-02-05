@@ -102,15 +102,14 @@ Here are some ideas to get you started:
 
 <!-- <p align='center'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=CantBeSubh&&theme=dracula&hide=lua,assembly,Jupyter+Notebook' align='center'/></p> -->
 
-<br>
+<!-- <br> -->
 
 <!-- <p align='center'><img src='https://github-readme-stats.vercel.app/api/?username=CantBeSubh&theme=dracula&show_icons=true' align='center'/></p> -->
 
-<br>
-
+<!-- <br> -->
 <!-- <p align='center'><img src='https://github-profile-trophy.vercel.app/?username=CantBeSubh&theme=dracula&row=1&column=6' align='center'/></p> -->
 
-<br>
+<!-- <br> -->
 
 <p align='center'><img align="center" src="https://github.com/deepak8321/deepak8321-/blob/output/github-contribution-grid-snake-dark.svg" /></p>
 		 
