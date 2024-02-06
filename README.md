@@ -128,7 +128,7 @@ Here are some ideas to get you started:
 - Reading(Sci-Fi, Autobiography)
 
 <p align='center'>
-<a href='https://open.spotify.com/user/57dordqsbmjjihsqd6xwt9hg4'><img src='https://novatorem-rho-ten.vercel.app/api/spotify'/></a>
+<a href='https://www.spotify.com/lt-en/account/overview/'><img src='https://novatorem-rho-ten.vercel.app/api/spotify'/></a>
 </p>
 
 
