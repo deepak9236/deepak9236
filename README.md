@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- # deepak8321_profile -->
 
-![Hello Myself,Deepak](https://github.com/deepak8321/deeepak8321-/blob/main/deepak9236.gif)
+<!-- ![Hello Myself,Deepak](https://github.com/deepak8321/deeepak8321-/blob/main/deepak9236.gif) -->
 
 
 
